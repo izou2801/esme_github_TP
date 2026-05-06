@@ -8,7 +8,8 @@ BikeShare Data Analysis
 
 ## Description
 This project analyzes bikeshare data to understand usage patterns.
-It allows filtering by city, month, and day and provides useful statistics.
+It allows users to filter data by city, month, and day.
+The program provides statistics about trips, stations, and users.
 
 ## Files used
 - bikeshare.csv
