@@ -17,3 +17,7 @@ It's important to give proper credit. Add links to any repo that inspired you or
 
 ## Refactoring Notes
 This section explains improvements made to the project structure and documentation.
+
+## Improvements
+- Better structure
+- Clearer explanations
