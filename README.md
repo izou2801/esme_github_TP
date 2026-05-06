@@ -1,4 +1,20 @@
->**Note**: Please **fork** the current repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+# BikeShare Project
+
+## Date created
+2026-05-06
+
+## Project Title
+BikeShare Data Analysis
+
+## Description
+This project analyzes bikeshare data to understand usage patterns.
+It allows filtering by city, month, and day and provides useful statistics.
+
+## Files used
+- bikeshare.csv
+
+## Credits
+Udacity GitHub Project>**Note**: Please **fork** the current repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
 Include the date you created this project and README file.
